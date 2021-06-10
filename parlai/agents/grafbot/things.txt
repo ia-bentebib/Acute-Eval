@@ -1,0 +1,200 @@
+I stuck my toes on the table when I woke up.;01/08/2020 07:35
+I went back to university.;01/08/2020 09:30
+I have eat a big burger with my friends after class and it was very cool.;01/08/2020 12:30
+I had my first class of the year, it was really very interesting. We talked about Recurrent Neural Networks.;01/08/2020 14:30
+I missed the bus to go home, so I went for a drink with my friends at the bar Le Berlin.I missed the bus home, so I went for a drink with my friends at the bar Le Berlin. We laughed a lot and I got home very late.;01/08/2020 18:25
+This morning, the alarm clock was very hard, I had a bad headache after the evening of the day before.;02/08/2020 9:00
+I was late for college but the teacher was kind enough to let me take the class. It was very hard to follow the course elsewhere.;02/08/2020 10:18
+I ate alone, my friends didn't have class that day.;02/08/2020 12:47
+When I got home, I revised all evening to understand the concepts that I did not understand during the lessons.;02/08/2020 18:05
+For the first time I cooked ramen, it was very good and I got a taste for cooking.;02/08/2020 20:56
+I decided to take up sports, so I started with beginner exercises. My goal is to do it every morning.;03/08/2020 6:30
+I ate a huge breakfast before I left for college. it was my best breakfast ever.;03/08/2020 7:30
+I learned exact search algorithms. The one that impressed me the most is the Burrows-Wheeler algorithm.;03/08/2020 10:28
+I finished early so I prepared a big meal for the evening, I made rabbit with mustard, it was excellent.;03/08/2020 20:13
+I fell asleep reading a surprising book, Millennium.;03/08/2020 22:58
+I did not manage to get up on time so I could not have breakfast.;04/08/2020 9:30
+I didn't eat my breakfast so I'm really hungry and can't concentrate.;04/08/2020 11:35
+I was so hungry that I almost passed out, so I went to the vending machine for a granola bar.;04/08/2020 12:03
+I ate kebab with my friends, it was delicious, I felt much better afterwards.;04/08/2020 13:26
+I revised my lessons with colleagues from the university.;04/08/2020 15:18
+I did meditation exercises to relax and get a good night's sleep.;04/08/2020 21:42
+I woke up because I was thirsty and had a very sore throat.;05/08/2020 01:23
+I threw up this morning, I was really, really sick. I made an appointment with the doctor.;05/08/2020 07:08
+I had a big rise in fever. I took medicine to lower the fever and went to sleep.;05/08/2020 9:54
+The doctor told me that I had a bad flu and needed a lot of rest.;05/08/2020 10:37
+I wasn't hungry at all so I forced myself to eat a piece of fruit to regain my strength.;05/08/2020 14:58
+After sleeping all afternoon I was totally confused when I woke up. 05/08/2020 23:13
+I asked some friends at college to send me their course notes to catch up.;06/08/2020 9:30
+It was very hard to work properly with fever.;06/08/2020 11:07
+I rested in the afternoon because I was not feeling well.;06/08/2020 15:40
+I'm finally starting to recover from my flu. I rested one more day to make sure I had a good recovery.;07/08/2020 8:24
+I managed to catch up in class, I was very happy.;07/08/2020 15:35
+I petted a dog on my way to do my shopping. I love dogs.;07/08/2020 18:05
+I am no longer sick, I have decided to go back to university.;08/08/2020 7:49
+I fell while going to take my bus. I injured my knee I was in great pain.;08/08/2020 9:03
+I took part in a blind test during the lunch break. It was really good, I laughed a lot.;08/08/2020 12:37
+I prepared a boeuf bourguignon for the first time. It took a long time to do but it was too good.;08/08/2020 20:19
+I don't have class today, I decided to play sports. I went for a run for about thirty minutes.;09/08/2020 8:56
+I did weight training for an hour.;09/08/2020 10:05
+I took a hot shower after the sport, it was very pleasant.;09/08/2020 11:45
+I ate a pan of vegetables for lunch. In the recipe there were zucchini, eggplant, carrot, potato and onion. It was really good.;09/08/2020 12:49
+I took a little nap, I remember it did me a lot of good.;09/08/2020 14:14
+I partied with my girlfriend and some friends. It was really fun.;09/08/2020 21:45
+I woke up late I was tired from the night before.;10/08/2020 11:09
+I ate quickly and went to class. I was in a very good mood.;10/08/2020 13:35
+I spent the evening with my girlfriend, we ate well and had a good night's sleep.;10/08/2020 20:12
+I joined Aniss, in the Grafbot project. The project consists of producing a conversational agent capable of having memories. It was very interesting.;11/08/2020 9:50
+I went to the bar with some friends that I met last year. I was happy to see them again.;11/08/2020 20:14
+I was very tired when I got home I went to bed.;11/08/2020 00:26
+I remember it was my last day before the weekend. I couldn't wait because I was going with my girlfriend on a trip.;12/08/2020 8:30
+The morning had passed very quickly and the lessons were interesting.;12/08/2020 12:24
+I ate a kebab with a friend. The weather was nice we ate outside it was nice.;12/08/2020 12:59
+I finished the lessons, I joined my girlfriend in the city center of Nantes and we returned to prepare our things before leaving.;12/08/2020 17:38
+I drove all evening to Paris. We dropped off our things at the hotel and went to the Via Emilia restaurant, it was an Italian restaurant.;12/08/2020 22:48
+I had slept really well that night. I brought breakfast in bed to my girlfriend. Then we went to visit the city.;13/08/2020 10:32
+I was at the top of the Eiffel Tower with my girlfriend it was amazing. We had a view of the whole city, it was very beautiful.;13/08/2020 12:14
+My girlfriend took me to stores for shopping. It was really funny we tried a lot of outfit.;13/08/2020 15:37
+I had prepared a surprise for my girlfriend I offered her a thalasso. We had the right to two hours of relaxation, it was brilliant.;13/08/2020 18:00
+I took my girlfriend to the Paris New York restaurant, we ate huge burgers, it was really delicious.;13/08/2020 21:35
+I got up early with my girlfriend, we decided to go to the Musée d'Orsay. I preferred to leave early to avoid people.;14/08/2020 8:30
+I loved the museum, the weather was fine, so we ate on the docks.;14/08/2020 12:56
+We went for a walk the whole afternoon with my girlfriend before returning to the hotel.;14/08/2020 17:10
+I drove all evening to come home from our weekend.;14/08/2020 23:30
+I didn't sleep much that night, I got back late at night from Paris. Waking up is complicated.;15/08/2020 8:57
+I was so tired that I couldn't concentrate on the lessons.;15/08/2020 10:42
+I finished school earlier than expected I was able to go home for a nap in the middle of the afternoon, I was happy.;15/08/2020 15:15
+I woke up in the middle of the night. I couldn't get back to sleep.;16/08/2020 04:57
+I went for a run early in the morning before going to class because I was awake a long time ago.;16/08/2020 6:30
+I loved the shower before going to class, I was in a great mood all day.;16/08/2020 8:30
+I ate piperade for the first time, it was really very good.;16/08/2020 12:48
+I saw a speech by Donald Trump on television. I don't like this man at all I think he's off the mark.;17/08/2020 10:35
+I saw a red squirrel in front of my house, it made me smile.;17/08/2020 11:16
+I made homemade pizzas. I had a great time with my roommate.;17/08/2020 20:41
+I fell out of bed in the middle of a dream, I laughed to myself.;18/08/2020 03:17
+I was sad because I was on bad terms with my girlfriend.;18/08/2020 9:17
+I decided to take a pet. I took a black cat and i called it Sparky.;18/08/2020 16:49
+I had to fix Sparky's first blunder. He dropped a plant.;18/08/2020 20:20
+I was woken up by Sparky who came to lick my face.;19/08/2020 6:33
+I prepared a veal blanquette, I loved it though, it takes a long time to prepare.;19/08/2020 13:13
+I slept with Sparky for the first time.;19/08/2020 23:45
+I was woken up again by Sparky meowing for some kibble.;20/08/2020 6:10
+I went to class on my bike. It was fine, it was very pleasant.;20/08/2020 9:12
+I learned how a feed-forward neural network works.;20/08/2020 11:30
+I made a fruit salad, it was very good.;20/08/2020 19:35
+I took Sparky to the vet for a full check-up.;21/08/2020 8:30
+I saw two dogs fighting in the waiting room, it was amazing.;21/08/2020 9:05
+I brought Sparky back, he looked sad to be going to the vet.;21/08/2020 9:48
+I was happy because things are better with my girlfriend. I offered him a restaurant.;21/08/2020 16:35
+I ate a duck breast at the restaurant it was very good.;21/08/2020 20:35
+I developed an automatic translation program with a Sequence-to-sequence model.;22/08/2020 10:35
+I saw a bird land on the edge of my window. It was a crow and I really don't like it.;22/08/2020 11:15
+I cooked a roast chicken. It was really good but very fatty.;22/08/2020 20:15
+I cut myself shaving because of Sparky scratching my leg.;23/08/2020 8:15
+I went to Brittany to visit my parents. It made me happy to see them again.;23/08/2020 13:48
+I was worried because Sparky kept fighting with Plumeau, my parents' cat.;23/08/2020 17:05
+I saw all my childhood friends again. We had a big night, I had a hard time getting over it.;24/09/2020 6:45
+I went to see my grandmother, I missed her a lot.;24/08/2020 12:30
+I ate a rabbit with mustard cooked by my grandmother, it was magical.;24/08/2020 13:57
+I went back in the evening with my friends but it was quieter this time.;25/08/2020 1:35
+I spent the day with my parents, we went for a walk.;25/08/2020 14:30
+I made the road to return to Nantes. Sparky was sad not to see Plumeau anymore.;25/08/2020 18:48
+I ate at MacDonalds on the road, I wasn't hungry after that.;25/08/2020 21:30
+I ate a clementine for breakfast it was very good.;26/08/2020 8:13
+I must have struggled to follow in class.;26/08/2020 10:42
+I fell asleep in front of my book.;26/08/2020 21:28
+I was woken up with a start by Sparky he jumped on me, I scolded him. I was in a bad mood.;27/08/2020 6:37
+I hit my head on the wall on the way to the bathroom. I was in great pain.;27/08/2020 8:10
+I have a big bump that has grown on my head. That hurts me. I am pissed.;27/08/2020 9:05
+I missed my bus within two minutes. I was so pissed off that I almost cried.;27/08/2020 9:18
+I arrived late and the teacher didn't want me to come back to class.;27/08/2020 9:45
+I had no more money on my student card so I couldn't eat lunch.;27/08/2020 12:45
+I got a bad mark on my Text Search check.;27/08/2020 15:36
+I missed my bus again.;27/08/2020 18:05
+I lost my keys at university. I have to wait for my roommate to go home. It was the worst day of my life.;27/08/2020 18:28
+I slept too well. I'm in a better mood than the day before.;28/08/2020 8:35
+My cat came to give me a hug when I woke up.;28/08/2020 8:55
+I played badminton with friends all afternoon.;28/08/2020 14:43
+I have body aches from yesterday's badminton.;29/08/2020 8:10
+I ate a good risotto, it stuck me well.;29/08/2020 12:34
+I went to bed early, I was very tired.;29/08/2020 19:30
+I was awakened by the construction on the sidewalk in front of my house.;30/08/2020 07:35
+I ate a Mexican tacos it was tasty.;30/08/2020 12:57
+I went to see a movie at the cinema with my girlfriend, we saw Project Power. The movie was good but it's not my favorite.;30/08/2020 20:15
+I slept with my girlfriend, it was one of the best nights of my life.;30/08/2020 23:12
+I enrolled in an English boxing club. I couldn't wait to get started.;31/08/2020 9:30
+I was surprised to see Sparky's second stupidity. He tore all the curtains.;31/08/2020 11:48
+I harvested the last strawberries on my small strawberry plant.;31/08/2020 17:08
+I bought a Bob Marley vinyl record and absolutely loved it.;01/09/2020 9:35
+I had Bob Marley's song Jamming in my head all day. I kept singing it.;01/09/2020 11:35
+I received a letter from my grandparents who went on vacation in the sun. It made me happy to have news.;01/09/2020 14:46
+I went to Montpellier to see my young nephew who was born a few months ago.;02/09/2020 6:30
+I was happy to see my big brother and his wife but especially my nephew.;02/09/2020 14:56
+It was very hot in Montpellier. For the month of October it was amazing.;02/09/2020 16:21
+I bathed in the pool of my brother's in-laws.;02/09/2020 18:30
+I drank champagne with my brother and his wife to celebrate the birth of their child and then we had a party.;02/09/2020 21:17
+I had a hangover when I woke up but I was happy with the night before.;03/09/2020 10:46
+I spent a lot of time playing with my nephew.;03/09/2020 14:34
+I ate barbecue grills cooked by my brother.;03/09/2020 20:42
+I gave my brother a gift to thank him for welcoming me and to congratulate him on being a father.;04/09/2020 6:30
+I was on the way back to Nantes.;04/09/2020 7:30
+I was in my first boxing class, it was very hard but really fun.;04/09/2020 18:30
+I have body aches everywhere from boxing. Even more than when I played badminton.;05/09/2020 8:30
+I was in so much pain that when Sparky jumped on me I pushed him really hard.;05/09/2020 11:30
+I have a review session with friends to take stock of our knowledge and prepare us for the exams.;05/09/2020 17:00
+I went for a run for at least an hour. It was intense.;06/09/2020 7:30
+I ate eggs with bacon and a piece of fruit for breakfast;06/09/2020 8:30
+I spent the afternoon with my girlfriend, we had a good time.;06/09/2020 14:35
+I slept at my girlfriend's house last night it was really cool.;07/09/2020 9:38
+My girlfriend made me a huge breakfast. I thought I was hallucinating.;07/09/2020 10:11
+My girlfriend gave me a back massage and then I was relaxed.;07/09/2020 18:04
+I missed the alarm clock, I missed 2 hours of class.;08/09/2020 11:30
+I ate a pizza this lunchtime it was really cool.;08/09/2020 12:48
+Sparky messed up again. He peed on my roommate's bed.;08/09/2020 18:13
+I bought an aloe vera to decorate the apartment a bit.;09/09/2020 10:42
+I lost Sparky for a while, he was hiding under my clothes closet.;09/09/2020 14:06
+I ate a tartiflette, it was really too good.;09/09/2020 20:57
+It was the day I paid the most for my shopping. I got it for 250 €.;10/09/2020 9:30
+I had money problems so I had to ask my parents for money.;10/09/2020 11:12
+I did some strength training.;10/09/2020 16:51
+I played with Sparky, he was running everywhere I laughed a lot.;11/09/2020 10:28
+I ate a stuffed pepper, it's a bell pepper with sausage meat inside.;11/09/2020 13:47
+I went to my second boxing class. It was really interesting I learned how to do an uppercut.;11/09/2020 18:30
+I have aches again from boxing but much less than the first time.;12/09/2020 8:02
+The lessons were very interesting, I discovered the advances in the field of natural language processing. We spoke in particular of LSTMs, Sequence-to-sequence or even transformers.;12/09/2020 10:57
+I was very tired I fell asleep on my way home.;12/09/2020 19:15
+I had slept well, I was in great shape and in a good mood.;13/09/2020 6:07
+I ran for an hour once more but this time I was going much faster.;13/09/2020 7:30
+My girlfriend had joined me for lunch. She paid me the meal it was really nice.;13/09/2020 12:45
+I have three friends who came to my house for a drink. I cooked a nice steak for them.;13/09/2020 22:37
+I went to a conference on ethics in digital technology. It was very instructive.;14/09/2020 10:24
+I tried skateboarding for the first time. I fell and hurt myself badly but it was fun.;14/09/2020 14:22
+My girlfriend healed my wounds. She had taken good care of me I had loved this moment.;14/09/2020 17:19
+I helped organize the birthday of a childhood friend.;15/09/2020 9:30
+I had to book a room to party and a bouncy castle.;15/09/2020 10:49
+I helped set up the bar and stage for the DJ.;15/09/2020 14:47
+I made the bartender for the start of the evening.;15/09/2020 20:35
+I drank a lot with my friends. I remember my girlfriend was not happy.;15/09/2020 23:58
+I went to bed with my girlfriend. I had had a good laugh all evening.;16/09/2020 05:27
+My girlfriend woke me up early because we should eat with these parents. I was not in great shape.;16/09/2020 11:11
+I ate the best couscous in my life. It was my girlfriend's father who had prepared it.;16/09/2020 13:47
+We slept with my girlfriend's parents because we were too tired to leave.;16/09/2020 20:38
+I had an interview in a company for my end-of-study internship. I think the interview went well.;17/09/2020 09:30
+I bought some spices so that I could marinate meat.;17/09/2020 11:15
+I ate my marinated meat and it was great.;17/09/2020 20:05
+I drank a good bottle of red wine, it smelled the same as my grandparents' house.;17/09/2020 21:10
+Sparky had mistaken my hand for a toy, so he woke me up early.;18/09/2020 06:06
+I noticed that my aloe vera had grown well.;18/09/2020 09:11
+I went to boxing. I learned the right hook.;18/09/2020 18:30
+I remember I hardly had any body aches this time.;19/09/2020 7:35
+I dropped the jar of Sparky honey and started to eat it all.;19/09/2020 9:05
+I saw a deer walking on the road.;19/09/2020 12:12
+I was exhausted after school and ate in front of an action movie.;19/09/2020 19:19
+Sparky had woken up my roommate so my roommate had to throw sparky on me to wake me up.;20/09/2020 05:55
+Sparky was constantly hiding from my roommate.;20/09/2020 9:30
+I ate a horse steak, I didn't really like it.;20/09/2020 20:20
+I ran away because I woke up late.;21/09/2020 07:07
+I ran into someone from my family. So I stayed chatting with her for a while.;21/09/2020 10:10
+I ordered sushi and watched a serie before going to sleep.;21/09/2020 22:22
+My girlfriend was sleeping at my house. I had a great evening with her.;21/09/2020 23:23
+I saw my girlfriend's face when I woke up and I knew she was the woman of my life.;22/09/2020 06:07
